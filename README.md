@@ -40,5 +40,5 @@ Desenvolvedor full-stack focado em produto: do front ao back, passando por autom
 <br clear="right" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkz-zz&label=Visitas&color=7a2e2e&style=flat-square" alt="Visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kkz-zz.kkz-zz&left_text=Visitas&left_color=1A0B0B&right_color=7A2E2E" alt="Visitas" />
 </p>
