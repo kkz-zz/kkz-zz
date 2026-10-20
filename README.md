@@ -32,7 +32,7 @@
 
 Desenvolvedor full-stack focado em produto: do front ao back, passando por automação, geração de documentos (PDF, DOCX, XLSX, DXF, SVG) e design de marca. Gosto de transformar processos manuais em ferramentas que funcionam de verdade.
 
-- 🚀 CEO & CTO da **tryZenu**
+- 🚀 CEO & CTO da **[tryZenu](https://tryzenu.com/)**
 - 🔨 Desenvolvendo o **[Pratto](https://tryzenu.com/pratto)**
 - 🤖 Criador do [agent-bootstrap](https://github.com/kkz-zz/agent-bootstrap): setup de repositórios guiado por agentes de IA
 - 🎮 Nas horas vagas: modding e sistemas para MTA:SA, Arma 3 e Project Reality
